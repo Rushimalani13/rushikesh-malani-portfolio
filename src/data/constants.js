@@ -213,7 +213,7 @@ export const projects = [
     member: [
       {
         name: "Rushiekesh Malani",
-        img: "#",
+        img: "https://media.licdn.com/dms/image/D4D03AQGp6667g3k-0w/profile-displayphoto-shrink_800_800/0/1666273015732?e=1710979200&v=beta&t=OVkPkhN_WbVRebbXNDTfZ4I7JTv-AkpHyRjsmkHbyEU",
         linkedin: "https://www.linkedin.com/in/rushikesh-malani-a283a71b5/",
         github: "https://github.com/Rushimalani13/",
       },
