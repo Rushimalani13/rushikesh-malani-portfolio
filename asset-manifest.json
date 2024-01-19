@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-rushikesh-malani/static/css/main.bf538fe7.css",
+    "main.js": "/portfolio-rushikesh-malani/static/js/main.a9a9302d.js",
+    "static/media/HeroImage.jpg": "/portfolio-rushikesh-malani/static/media/HeroImage.64809a54aa49e97ebb85.jpg",
+    "index.html": "/portfolio-rushikesh-malani/index.html",
+    "main.bf538fe7.css.map": "/portfolio-rushikesh-malani/static/css/main.bf538fe7.css.map",
+    "main.a9a9302d.js.map": "/portfolio-rushikesh-malani/static/js/main.a9a9302d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.a9a9302d.js"
+  ]
+}
