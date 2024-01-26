@@ -185,6 +185,10 @@ const index = ({ openModal, setOpenModal }) => {
                         }}
                         onClick={() => setOpenModal({ state: false, project: null })}
                     />
+<<<<<<< HEAD
+=======
+                   
+>>>>>>> 34c469d7beffd678a799b3fa9f41883afa98431c
                     <Title>{project?.title}</Title>
                     <Date>{project.date}</Date>
                     <Tags>
